@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pratik13579@gmail.com
+	name = Pratik Kumar
